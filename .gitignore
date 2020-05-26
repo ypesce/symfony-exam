@@ -1,4 +1,3 @@
-
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
@@ -15,3 +14,6 @@
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 
+
+### Ajout de Webpack Encore (bootstrap) ###
+node_modules
